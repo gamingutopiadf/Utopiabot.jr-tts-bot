@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ivory-oarlock-410506",
+  "private_key_id": "865276f8b548f6ccdd4978a72d5e365df7b288c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHXT3hQ+3rhVFD\nYp4ckVuLN8ap5WsfBG3CMi9WtSkwaDO/ayRSl18TnMMQgS8K+blAr3bTLKh5zZKU\nqX+T1KDuoD0zUFnmug/mazDjyfIY/5WG/1RN07/adEeE+HLF3hUsMEYnXqd7/UeX\nRjqQrnSp/2KIyMNXML/Bhjuvy/LcYR4J6b+cGJhImUDhjl00mc17xsKTftHIWN++\nhJpdE8jpAnh5sms63+hsW37ZPYVxRbqNf7GYBLDNx64iahGiCdPgHTOtc7dACjVH\nQKudD4HYmcUJlB87oJ73nYzNp/vNzy22RdvEhTthRHyUDmtNE4p/8Hyz78ejvPU1\ngvPB+EPpAgMBAAECggEACtr8YhYxT8g4Fwu5IUQW8HsugZTA4vT6Rv81jaqangym\neK9MUIT2g9pe0ri+B4J2gFuthC0j1VIIv7iE/lcvFh86hd9DrekGsZy3kkeuO4c7\nLJkdjYlQooP/WvGuSjDgBUJxp3Yjd4BglA+aY8NkDdeelWUdIdPBNTfqaxWXWUGF\n2yXq+P6ixO1xo4zFMbJbhJ9FkozIgCAX5aOshYmKJY9AYebPl5MtfC+gXEsCmVBI\nPqlTQNohdlIBVLA3oozjVSBxzX1uZrzKgQspIOkBekD5pMpWk5jmyK4kC3r6xLlt\nh7KdaIsFcb6Px1QvdTMPeSgm/jn4GD/uX6rT9/02gwKBgQDwfNppjcsRoxLBhYKc\nD+diK/DhHsj0QRfKP1/ZGQrXF4e0BV7CiIs6DaerLs/hGv2NGBm6BRkQQfRJ8dTM\n+rPNDpknXwLhHfxZLNgK8ac/9pVS3SeZUb+HLYB+pasrOm3RrVPZnUMZ7/beyBRK\nariv/j1C4HUYbE33Jy0p34DRuwKBgQDUOVIwJe7Y/4rVOztfHVcLXNXUsv11Auzc\naWbQmkvmTA16OsdEPAzLZed5tgX8sjAa4dzFz3DAeTY8k3i6krWghI5Y//pCjd0h\nvNBHImmOhGbOqWTtpw5eX+jZYjOtVlo0CBL2/JQqNidzHrr6TAZeYgS13wgqjkWE\nvROQXPvEqwKBgHb47Xymvz2cdVzz1eerHoc8wdA9UKE1yrUtoRdgAjLi2ym+NmD6\n+BXiR36yi/kLR0CUGbYja4DVgCtMzkASDv11KWOG53/DO+JKAx926Y0FSl5SNpLt\nFFmlsxn0j7e1EjtXClJwMJAWXQVd6lvebDv1BQ2eyY8plXCeGwPKJIqdAoGBALiy\nGkElAjWAUIc6wXUJx9Nvu/kcvVC0dwdsA7rQTfXjgmc5+Gn+CPSLf2SBcbx2Jz9+\nCfFtk6cu1nDpt0xImiFUu73hKR/67tSJyond/Re3SvHYoqnhlbO0rKVjva3BVUer\nLzYco6YI81RRDlD/ERvbGlZeAHFo2D+pfflJsyN5AoGActiQ5lfvsLH8ClC5kylr\ng+Q6O9cmmPtOTukrqP9jxnWSGf8Q7U9ozv2mO1fBwShoFjmK1DILMzabHzJgVL7T\nlFhKe3yisrcMqmQomp0rbsdUQvkAIL9hxahEiwWHuL6Q9vgeYQQXtUIMyIOnOSaQ\nvr4Shmt6ADx+kSjxe/cJw3Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "utopiabot-tts@ivory-oarlock-410506.iam.gserviceaccount.com",
+  "client_id": "103712444128099534090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/utopiabot-tts%40ivory-oarlock-410506.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
